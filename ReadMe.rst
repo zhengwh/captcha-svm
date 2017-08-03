@@ -94,7 +94,7 @@
 以图片 **6987** 为例子：
 
 
-.. image:: ./imgs/feature-flow.png
+.. image:: ./imgs/feature-flow.jpeg
 
 
 
