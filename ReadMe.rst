@@ -70,11 +70,15 @@
 以图片 **6987** 为例子：
 
 
-.. image:: feature-flow.png
+.. image:: ./imgs/feature-flow.png
 
 
 
-其它
+后续交流
 =========
 
-。。。
+如果有对相关技术有持续关注的兴趣的同学，欢迎加入QQ群： 592109504
+
+或者手机QQ扫码加入：
+
+.. image:: ./imgs/qq-group.jpg
