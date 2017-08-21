@@ -3,8 +3,8 @@
 import os
 import sys
 
-from capt.svm_ocr.lib.svm import *
-from capt.svm_ocr.lib.svm import __all__ as svm_all
+from lib.svm import *
+from lib.svm import __all__ as svm_all
 
 __all__ = ['evaluations', 'svm_load_model', 'svm_predict', 'svm_read_problem',
            'svm_save_model', 'svm_train'] + svm_all
